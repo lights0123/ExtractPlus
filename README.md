@@ -1,6 +1,7 @@
 # ExtractPlus
 
-A program to extract MotoPlus header files from publicly available documentation PDFs
+A program to extract Yaskawa Motoman MotoPlus header files from publicly available documentation
+PDFs
 
 ## Introduction
 
