@@ -1,5 +1,5 @@
 CC = gcc
-CCFLAGS = -r -nostdlib -fno-builtin -fno-zero-initialized-in-bss -Wall -Werror-implicit-function-declaration -I $(SRC)
+CCFLAGS = -r -nostdlib -fno-builtin -fno-pie -fno-zero-initialized-in-bss -Wall -Werror-implicit-function-declaration -I $(SRC)
 LDFLAGS =
 
 SRC := .
